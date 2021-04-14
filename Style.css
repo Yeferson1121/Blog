@@ -19,3 +19,7 @@ body {
  ul {
      list-style: none;
  }
+ .container {
+     width: 90px;
+     margin: auto;
+ }
