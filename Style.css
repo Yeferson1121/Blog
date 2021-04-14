@@ -4,6 +4,8 @@
     padding: 0%;
 }
 body {
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
     background: black;
     color: white;
     background-color: #000000;
@@ -13,4 +15,7 @@ body {
      text-decoration: none;
      color: white
      ;
+ }
+ ul {
+     list-style: none;
  }
