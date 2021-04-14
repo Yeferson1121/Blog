@@ -33,10 +33,12 @@ body {
      height: 60px;
      padding: 20px 10px;
  }
+ .nav-main li {
+     padding: 10px;
+ }
  .nav-video {
      width: 180px;
      padding: 10px;
- }
  }
  /*Nav-left*/
 
