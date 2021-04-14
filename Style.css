@@ -31,8 +31,16 @@ body {
      justify-content: space-between;
      align-items: center;
      height: 60px;
-     padding: 20px 0px;
+     padding: 20px 10px;
  }
  .nav-video {
      width: 180px;
+     padding: 10px;
+ }
+ }
+ /*Nav-left*/
+
+ .nav-main ul {
+     display: flex;
+     padding: 10px;
  }
