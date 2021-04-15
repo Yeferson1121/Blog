@@ -45,10 +45,14 @@ body {
 
  .nav-main ul {
      display: flex;
-     padding: 10px;
+ }
+ .nav-main ul li a:hover{
+    border-bottom: solid 2px white
+  
  }
  .nav-main.nav-menu {
      flex: 1;
      margin-left: 20px;
  }
+
 
