@@ -88,3 +88,10 @@ body {
  .showcase p  {
      margin-bottom: 10px;
  }     
+
+ /* New cards*/
+.new-cards {
+    display: grid;
+    grid-template-columns:repeat(2,1);
+
+} 
