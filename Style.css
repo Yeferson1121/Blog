@@ -75,6 +75,8 @@ body {
      color: #ffff;
      font-size: 15px;
      border: 1px solid #ffff;
- }
+    }
 
-
+.btn:hover {
+    opacity: .9;
+}     
