@@ -121,5 +121,10 @@ body {
     background: url(./img/banner.jpg);
     margin-bottom: 40px;
 }
+.cards-banner-one .content {
+    width: 40%;
+    padding: 50px 0 0 30px;
+    color: azure;
+}
 
 
