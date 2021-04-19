@@ -126,5 +126,9 @@ body {
     padding: 50px 0 0 30px;
     color: azure;
 }
+.cards-banner-one p,
+.cards-banner-one h2 {
+    margin: 10px 0 20px;
+}
 
 
