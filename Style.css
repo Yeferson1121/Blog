@@ -95,6 +95,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 25px;
+    margin-bottom: 10px 0px;
 } 
 .new-cards img {
     width: 100%;
