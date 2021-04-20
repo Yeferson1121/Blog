@@ -145,5 +145,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+.links a{
+    margin: 0px 30px;
+}
+.links a i {
+    font-size: 3rem;
+}
 
 
