@@ -130,9 +130,15 @@ body {
 .cards-banner-one h2 {
     margin: 10px 0 20px;
 }
+
 /*Social*/
 .social {
     margin: 50px;
+}
+.social p {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 
