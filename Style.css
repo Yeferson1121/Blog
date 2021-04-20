@@ -140,5 +140,10 @@ body {
     font-size: 30px;
     margin-bottom: 30px;
 }
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
