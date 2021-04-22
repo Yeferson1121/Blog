@@ -59,7 +59,7 @@ body {
     top: 15px;
     right: 30px;
     z-index: 2;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
  /*Showcase*/
@@ -207,7 +207,7 @@ body {
         font-size: 14px;
     }
     .nav-main ul.nav-menu-right {
-        margin-right: 50px;
+        margin-right: 40px;
     }
     .new-cards {
         grid-template-columns: repeat(2, 1fr);
