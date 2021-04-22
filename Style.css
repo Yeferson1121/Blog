@@ -181,6 +181,15 @@ body {
     text-align: center;
 }
 @media (max-width: 700px) {
+    .nav-main ul.nav-menu {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: #3C0202;
+        height: 100%;
+        transform: translateX(-20px);
+    }
     .new-cards {
         grid-template-columns: repeat(2, 1fr);
     }
