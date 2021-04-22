@@ -158,7 +158,13 @@ body {
     color: white;
     font-size: 12px;
     padding: 35px 0px;
-
+}
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-items:flex-start;
+    justify-content:center;
 }
 
 
