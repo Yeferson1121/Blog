@@ -208,6 +208,8 @@ body {
     }
     .nav-main ul.nav-menu-right {
         margin-right: 40px;
+        height: 1px;
+        padding-bottom: 32px
     }
     .new-cards {
         grid-template-columns: repeat(2, 1fr);
