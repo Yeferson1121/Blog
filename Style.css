@@ -53,6 +53,15 @@ body {
  .nav-main ul li a:hover{
     border-bottom: solid 2px white;
  }
+.menu-btn {
+    position: absolute;
+    cursor: pointer;
+    top: 15px;
+    right: 30px;
+    z-index: 2;
+    font-size: 1.5rem;
+}
+
  /*Showcase*/
  hr {
      margin: 10px 0px;
