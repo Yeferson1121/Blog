@@ -151,5 +151,14 @@ body {
 .links a i {
     font-size: 3rem;
 }
+/*Footer links*/
+
+.footer-links {
+    background: black ;
+    color: white;
+    font-size: 12px;
+    padding: 35px 0px;
+
+}
 
 
