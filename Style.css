@@ -166,5 +166,11 @@ body {
     align-items:flex-start;
     justify-content:center;
 }
+.footer-container ul{
+    margin: 0% auto;
+}
+.footer-container ul li {
+    line-height: 1.8;
+}
 
 
