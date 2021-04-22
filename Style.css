@@ -200,6 +200,10 @@ body {
         padding: 20px;
         opacity: .9;
         transform: translateX(-400px);
+        transition: transform .5s ease-in-out;
+    }
+    .nav-main ul.nav-menu.show {
+        transform: translateX(-20px);
     }
     .nav-main ul.nav-menu li {
         padding: 20px;
