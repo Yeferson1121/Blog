@@ -223,7 +223,19 @@ body {
     }
 }
 
-@media (max-widt: 500px) {
-    
+@media (max-width: 500px) {
+    .new-cards {
+        grid-template-columns:repeat(2, 1fr) ;
+    }
+    .new-cards img {
+        height: 270px 
+   }
+   .cards-banner-one .content {
+       width: 100%;
+       padding: 60px 20px;
+   }
+   .footer-links .footer-container {
+       grid-template-columns: repeat(2, 1fr);
+   }
 }
 
